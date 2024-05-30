@@ -1,2 +1,7 @@
 # Bhaumikpatel_9012179
-Na,me : Bhaumik.M.Patel
+
+Name : Bhaumik.M.Patel
+
+Project title Lab 3
+
+Student id : 9012179.
