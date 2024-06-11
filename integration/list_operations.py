@@ -1,5 +1,5 @@
 class ListOperations:
-    def _init_(self):
+    def __init__(self):
         self.numbers = []
 
     def add_number(self, number):
